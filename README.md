@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1165" height="365" alt="image" src="https://github.com/user-attachments/assets/b441fc2c-f6c2-432b-9b74-2a4d2b6345b0" /><div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:111827,100:00F7FF&text=Sebastian%20Hernandez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer%20•%20Spring%20Boot%20Engineer&descAlignY=56&descSize=18"/>
 
@@ -164,11 +164,17 @@ Modern authentication and authorization backend system using Spring Security and
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SebastianHernandezDev&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHernandezDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SebastianHernandezDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianHernandezDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF"/>
+
+</div>
 
 
 
