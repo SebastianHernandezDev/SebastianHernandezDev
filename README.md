@@ -1,8 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:00F7FF&text=Sebastian%20Hernandez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer%20•%20Spring%20Boot%20Engineer&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:111827,100:00F7FF&text=Sebastian%20Hernandez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer%20•%20Spring%20Boot%20Engineer&descAlignY=56&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Java+Developer;Spring+Boot+Engineer;REST+API+Developer;Building+Scalable+Systems;Docker+%7C+PostgreSQL+%7C+JWT+Authentication)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Java+Developer;Spring+Boot+Engineer;REST+API+Developer;Building+Scalable+Backend+Systems;Docker+%7C+PostgreSQL+%7C+JWT+Authentication)](https://git.io/typing-svg)
+
+<p align="center">
+Backend developer focused on building scalable, secure, and modern backend systems using Java and Spring Boot.
+</p>
+
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
+
+<a href="mailto:ssshernandezperez@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
@@ -13,36 +31,45 @@
 ```java
 public class SebastianHernandez {
 
-    String role = "Backend Java Developer";
-    
-    String[] technologies = {
+    private final String role = "Backend Java Developer";
+
+    private final String[] specialties = {
+        "REST APIs",
+        "Spring Boot",
+        "Authentication Systems",
+        "Backend Architecture",
+        "Database Design"
+    };
+
+    private final String[] technologies = {
         "Java",
         "Spring Boot",
         "PostgreSQL",
         "MySQL",
         "Docker",
         "JWT",
-        "REST APIs",
+        "Git",
         "JavaScript",
         "Bootstrap"
     };
 
-    String currentFocus = "Building scalable backend systems";
-
-    boolean openToWork = true;
+    public void currentFocus() {
+        System.out.println("Building scalable backend applications");
+    }
 }
 ```
 
-💻 Backend developer focused on building scalable and secure REST APIs using Java and Spring Boot.
+I’m a backend developer passionate about designing secure, scalable, and maintainable applications using modern Java technologies.
 
-🚀 Passionate about backend architecture, authentication systems, databases, and modern web technologies.
+I enjoy working on backend architecture, authentication systems, API development, and database-driven applications.
 
-🧠 Currently improving my skills in:
+Currently improving my skills in:
 - Spring Security
 - Docker & Containerization
 - CI/CD Pipelines
-- Clean Architecture
 - Cloud Deployment
+- Clean Architecture
+- Scalable System Design
 
 ---
 
@@ -50,17 +77,17 @@ public class SebastianHernandez {
 
 <div align="center">
 
-## Backend
+## Backend Development
 <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs" />
 
-## Frontend
+## Frontend Development
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-## Database
+## Database Technologies
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 
-## Tools & Technologies
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,idea,figma" />
+## Tools & Workflow
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea,figma" />
 
 </div>
 
@@ -69,59 +96,68 @@ public class SebastianHernandez {
 # 🚀 Featured Projects
 
 ## 🛒 Verdeo API
-Enterprise-level e-commerce backend built with Spring Boot.
+
+Enterprise-style e-commerce backend application built with Spring Boot and PostgreSQL.
 
 ### Features
 - JWT Authentication
 - Refresh Token System
-- Role-based authorization
-- Shopping Cart
+- Role-based Authorization
+- Shopping Cart Module
 - Product Management
 - Secure REST APIs
 - PostgreSQL Integration
-- Docker Support
+- Dockerized Environment
 
 ### Tech Stack
 `Java` `Spring Boot` `PostgreSQL` `JWT` `Docker`
 
-🔗 Repository:  
-(https://sebastianhernandezdev.github.io/Portafolio/)
+### Architecture
+```txt
+Client → REST API → Service Layer → PostgreSQL Database
+```
+
+🔗 Repository  
+YOUR_REPOSITORY_LINK
 
 ---
 
 ## 📅 Event Management Platform
-Modern event management system inspired by real-world event workflows.
+
+Backend-focused event management system inspired by real-world event workflows.
 
 ### Features
 - Event Scheduling
 - Guest Management
 - Real-time Updates
-- Custom Event Pages
 - Notification System
+- User Authentication
+- Secure API Architecture
 
 ### Tech Stack
 `Java` `Spring Boot` `MySQL` `Bootstrap`
 
-🔗 Repository:  
+🔗 Repository  
 YOUR_REPOSITORY_LINK
 
 ---
 
 ## 🔐 Authentication System
-Complete authentication and authorization backend system.
+
+Modern authentication and authorization backend system using Spring Security and JWT.
 
 ### Features
-- Login/Register
+- Login & Registration
 - JWT Authentication
 - Refresh Tokens
 - Password Encryption
 - Role Permissions
-- Secure Endpoints
+- Protected Routes
 
 ### Tech Stack
 `Spring Security` `JWT` `PostgreSQL`
 
-🔗 Repository:  
+🔗 Repository  
 YOUR_REPOSITORY_LINK
 
 ---
@@ -134,6 +170,10 @@ YOUR_REPOSITORY_LINK
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHernandezDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
+</div>
+
+<div align="center">
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianHernandezDev&theme=tokyo-night&hide_border=true"/>
 
 </div>
@@ -143,33 +183,50 @@ YOUR_REPOSITORY_LINK
 # 🧠 Current Focus
 
 ```yaml
-Learning:
+Currently Learning:
   - Spring Security
   - Docker
-  - CI/CD
-  - Microservices
+  - CI/CD Pipelines
   - Cloud Deployment
+  - Microservices Architecture
 
-Building:
-  - Scalable REST APIs
-  - Secure Authentication Systems
+Currently Building:
+  - Secure REST APIs
+  - Authentication Systems
   - Full Stack Applications
+  - Backend Services
 
-Goals:
+Professional Goals:
   - Become a strong Backend Engineer
-  - Contribute to real-world software projects
-  - Build production-ready systems
+  - Build production-ready applications
+  - Improve software architecture skills
+  - Contribute to impactful products
 ```
 
 ---
 
-# 🏆 Professional Goals
+# 🏗️ Development Philosophy
 
-✔ Build enterprise-level backend systems  
-✔ Improve software architecture skills  
-✔ Master Spring ecosystem  
-✔ Learn scalable cloud deployment  
-✔ Contribute to impactful products  
+- Write clean and maintainable code
+- Build scalable backend systems
+- Focus on security and performance
+- Continuously improve architecture skills
+- Learn through real-world projects
+
+---
+
+# 📌 Featured Technologies
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=316192"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+</div>
 
 ---
 
@@ -177,11 +234,17 @@ Goals:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white)](YOUR_PORTFOLIO)
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssshernandezperez@gmail.com)
+<a href="mailto:ssshernandezperez@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -189,8 +252,8 @@ Goals:
 
 <div align="center">
 
-### ⚡ "Code. Build. Improve. Repeat."
+### ⚡ “Code. Build. Improve. Repeat.”
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
