@@ -9,11 +9,11 @@ Backend developer focused on building scalable, secure, and modern backend syste
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sebastian-david-hernandez-perez-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://sebastianhernandezdev.github.io/Portafolio/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 
@@ -117,9 +117,6 @@ Enterprise-style e-commerce backend application built with Spring Boot and Postg
 Client → REST API → Service Layer → PostgreSQL Database
 ```
 
-🔗 Repository  
-YOUR_REPOSITORY_LINK
-
 ---
 
 ## 📅 Event Management Platform
@@ -137,8 +134,7 @@ Backend-focused event management system inspired by real-world event workflows.
 ### Tech Stack
 `Java` `Spring Boot` `MySQL` `Bootstrap`
 
-🔗 Repository  
-YOUR_REPOSITORY_LINK
+
 
 ---
 
@@ -157,8 +153,7 @@ Modern authentication and authorization backend system using Spring Security and
 ### Tech Stack
 `Spring Security` `JWT` `PostgreSQL`
 
-🔗 Repository  
-YOUR_REPOSITORY_LINK
+
 
 ---
 
@@ -228,25 +223,6 @@ Professional Goals:
 
 </div>
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="mailto:ssshernandezperez@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
