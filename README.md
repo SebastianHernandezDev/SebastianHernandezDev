@@ -1,5 +1,7 @@
 
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1120,50:111827,100:00F7FF&text=Sebastian%20Hernandez&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Java%20Developer%20•%20Spring%20Boot%20Engineer&descAlignY=56&descSize=18"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Java+Developer;Spring+Boot+Engineer;REST+API+Developer;Building+Scalable+Backend+Systems;Docker+%7C+PostgreSQL+%7C+JWT+Authentication)](https://git.io/typing-svg)
 
 <p align="center">
