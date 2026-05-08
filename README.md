@@ -159,11 +159,12 @@ Modern authentication and authorization backend system using Spring Security and
 
 # 📊 GitHub Analytics
 
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SebastianHernandezDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SebastianHernandezDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHernandezDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHernandezDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </div>
 
